@@ -1,6 +1,6 @@
 # WP Swift: Contact Widget
 
-* Plugin Name:       WP Swift: Contact Widget
+* Plugin Name:       WP Swift: Contact Widget (Bolster)
 * Description:       Placeholder widget for contact details
 * Version:           1.0.0
 * Author:            Gary Swift
