@@ -1,4 +1,4 @@
-# WP Swift: ACF Starter Widget
+# WP Swift: Contact Widget
 
 * Plugin Name:       WP Swift: Contact Widget
 * Description:       Placeholder widget for contact details
